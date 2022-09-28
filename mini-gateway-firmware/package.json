@@ -1,0 +1,25 @@
+{
+  "name": "mini-gateway-firmware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etneca/mini-gateway-firmware.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etneca/mini-gateway-firmware/issues"
+  },
+  "homepage": "https://github.com/etneca/mini-gateway-firmware#readme",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "redis": "^4.3.1",
+    "serialport": "^10.4.0"
+  }
+}
